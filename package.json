@@ -1,0 +1,33 @@
+{
+  "name": "footrevolution_bot",
+  "version": "1.0.0",
+  "description": "Football Telegram Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacky-yg/footRevolution_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "blacky-yg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blacky-yg/footRevolution_bot/issues"
+  },
+  "homepage": "https://github.com/blacky-yg/footRevolution_bot#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "now": "^21.0.1",
+    "telegraf": "^3.38.0"
+  },
+  "engines": {
+    "node": "10.19.0"
+  }
+}
