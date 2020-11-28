@@ -3,6 +3,7 @@ require('dotenv').config()
 const Telegraf = require('telegraf')
 const Markup = require('telegraf/markup')
 const Extra = require('telegraf/extra')
+const axios = require("axios");
 
 const bot = new Telegraf(process.env.BOT_TOKEN)
 
