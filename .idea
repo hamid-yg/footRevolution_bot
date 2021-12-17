@@ -1,1 +1,7 @@
 <iframe src="https://www.scorebat.com/embed/" frameborder="0" width="600" height="760" allowfullscreen allow='autoplay; fullscreen' style="width:600px;height:760px;overflow:hidden;display:block;" class="_scorebatEmbeddedPlayer_"></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=arrv'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>
+
+https://www.scorebat.com/video-api/
+https://rapidapi.com/scorebat/api/free-football-soccer-videos
+https://public-apis.io/football-soccer-videos-api
+https://www.reddit.com/r/webdev/comments/aq6thu/free_api_for_football_soccer_videos/
+https://apilist.fun/api/football-soccer-video-api-by-scorebat
